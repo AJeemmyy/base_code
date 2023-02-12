@@ -1,0 +1,1 @@
+enum NetworkState { LOADING, SUCCESS,ERROR ,INITIAL , LOADING_MORE }
